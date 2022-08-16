@@ -1,0 +1,45 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #A4A3A3;
+    background-color: #393A3C;
+      }
+
+hr {
+    border-color: #FF4C29;
+    border-style: dotted none none none;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    }
+
+h1 {
+    color: #CC7832;
+
+    }
+
+h3 {
+    color: #A5C561;
+
+    }
+
+a:link {
+  color: #629755;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #AA4926;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #94550D;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #B200B2;
+  text-decoration: underline;
+}
+
+p {font-family: "Lucida Console", "Courier New", monospace;}
